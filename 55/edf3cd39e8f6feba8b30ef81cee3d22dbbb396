@@ -1,0 +1,20 @@
+packages/core/src/loop/workflows/agentic-execution/tool-call-step.ts
+  s_9e95a51e440ffe::t_782a2f5551839f 591
+  s_9e95a51e440ffe::t_3d240965cd0e57 516-520,522
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "55edf3cd39e8f6feba8b30ef81cee3d22dbbb396",
+  "prompts": {},
+  "sessions": {
+    "s_9e95a51e440ffe": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_120ceddf0ffeA11IvST5j803G1",
+        "model": "unknown"
+      },
+      "human_author": "Amey Ranaware <ranaware.amey@gmail.com>"
+    }
+  }
+}
