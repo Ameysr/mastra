@@ -1,0 +1,30 @@
+packages/core/src/loop/workflows/agentic-execution/tool-call-step.ts
+  s_9e95a51e440ffe::t_c73b9c1c284f56 442-446
+  s_9e95a51e440ffe::t_d15a714fc78239 557-570
+.changeset/strong-lizards-destroy.md
+  s_9e95a51e440ffe::t_3fe280add5dc74 5,7,9-21
+pr-description.md
+  s_9e95a51e440ffe::t_efad4e69604819 1-58
+packages/core/src/agent/durable/workflows/steps/tool-call.ts
+  s_9e95a51e440ffe::t_ab9fc13742118c 378
+  s_9e95a51e440ffe::t_5be6f107aecd55 267
+packages/core/src/loop/network/index.ts
+  s_9e95a51e440ffe::t_02ecf9a8e4fb25 1472-1476
+  s_9e95a51e440ffe::t_df85056230a736 1610-1614
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "473a22d789cacde5df8d614a414ef9418acbf2d2",
+  "prompts": {},
+  "sessions": {
+    "s_9e95a51e440ffe": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_120ceddf0ffeA11IvST5j803G1",
+        "model": "unknown"
+      },
+      "human_author": "Amey Ranaware <ranaware.amey@gmail.com>"
+    }
+  }
+}
