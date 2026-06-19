@@ -1,0 +1,19 @@
+packages/core/src/agent/__tests__/supervisor-integration.test.ts
+  s_9e95a51e440ffe::t_01e12fccd2b1dd 1039
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "a40e72dd7172e975cc91ae49d14ebdfa8c588527",
+  "prompts": {},
+  "sessions": {
+    "s_9e95a51e440ffe": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_120ceddf0ffeA11IvST5j803G1",
+        "model": "unknown"
+      },
+      "human_author": "Amey Ranaware <ranaware.amey@gmail.com>"
+    }
+  }
+}
