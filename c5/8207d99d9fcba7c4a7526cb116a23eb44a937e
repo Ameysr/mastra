@@ -1,0 +1,19 @@
+.changeset/strong-lizards-destroy.md
+  s_9e95a51e440ffe::t_d454be69b07e1b 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "c58207d99d9fcba7c4a7526cb116a23eb44a937e",
+  "prompts": {},
+  "sessions": {
+    "s_9e95a51e440ffe": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_120ceddf0ffeA11IvST5j803G1",
+        "model": "unknown"
+      },
+      "human_author": "Amey Ranaware <ranaware.amey@gmail.com>"
+    }
+  }
+}
